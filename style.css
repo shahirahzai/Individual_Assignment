@@ -1,0 +1,46 @@
+body
+    {
+        background-image: background123.jpg;
+	background-image: background.jpg;
+	background-image: background ex.jpg;
+	background-image: background2.jpg;
+	background-image: background3.jpg;
+	background-image: yellow-music-gif.jpg;
+    }
+h1
+    {
+	font-face: calibri; 
+	font-size: 10; 
+	color: black;
+	border-size: 5
+    }
+h2
+    {
+	background-color:red;
+	text-allign: center;
+	table-border:1;
+    }
+h3	
+    {
+	font-face: britanic bold;
+	font-size: 30;
+	color: green;
+    }
+h4
+    {
+	font-face: brodway;
+	font-size: 30px;
+    }
+h5
+    {
+	font-face: lucida calligraphy;
+	font-size: 30px;
+	font-color: purple;
+	font-style: marquee behavior alternate;
+    }
+h6
+    {
+	font-face: forte;
+	font-size:15;
+	font-color: orange;
+    }
